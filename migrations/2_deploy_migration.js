@@ -1,4 +1,4 @@
-var HelloWorld = artifacts.require("HelloWorld");
+var BasicCalculator = artifacts.require("BasicCalculator");
 module.exports = function(deployer) {
-  deployer.deploy(HelloWorld);
+  deployer.deploy(BasicCalculator);
 }
