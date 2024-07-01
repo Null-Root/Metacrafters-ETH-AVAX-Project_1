@@ -2,7 +2,7 @@
 This is a smart contract that represents a basic calculator
 
 ## Description
-This smart contract provides a basic implementation of a calculator with an add, subtract, multiply, and divide as the common operators. It also has the execTwoOp which allows for executing two operations. Lastly, it contains a function to clear the past results.
+This smart contract provides a basic implementation of a calculator with an add, subtract, multiply, and divide as the common operators. Lastly, since this calculator contains some sort of "memory" which is the pastResult variable, it contains a function to clear the past results. 
 
 
 ## Getting Started
@@ -11,7 +11,7 @@ This smart contract provides a basic implementation of a calculator with an add,
 
 Run this on gitpod and use truffle to interact
 
-Alternatively:
+Alternatively you can use the following:
 * Open [Remix IDE](https://remix.ethereum.org/).
 * Create a new file and paste the `BasicCalculator` contract code into the file.
 * Compile and Deploy
