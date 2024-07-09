@@ -1,5 +1,5 @@
-# Project
-This is a smart contract that represents a basic calculator
+# Basic Calculator Project
+This is a smart contract that represents a basic calculator that can perform the basic operations
 
 ## Description
 This smart contract provides a basic implementation of a calculator with an add, subtract, multiply, and divide as the common operators. Lastly, since this calculator contains some sort of "memory" which is the pastResult variable, it contains a function to clear the past results. 
